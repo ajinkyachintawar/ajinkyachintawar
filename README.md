@@ -7,8 +7,8 @@
 - 🌱 I’m learning: **Microsoft Fabric, Apache Airflow, Supabase**  
 - 👯 I’m open to collaborate on: **AI + Health projects, Portfolio building, Real-time analytics**  
 - 💬 Ask me about: **Data Pipelines, BI tools, ML Models**  
-- 📫 How to reach me: **ajinkyachintawar7@gmail.com**  
-- 🌍 Portfolio: [student-administration.netlify.app](https://student-administration.netlify.app/)  
+- 📫 How to reach me: **ajinkyachintawar12@gmail.com**  
+- 🌍 Portfolio: [ajinkya-analytics.netlify.app](https://ajinkya-analytics.netlify.app/)  
 
 ---
 
