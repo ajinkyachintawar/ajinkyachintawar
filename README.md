@@ -43,7 +43,8 @@
 
 ---
 
-
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=ajinkyachintawar&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
